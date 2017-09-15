@@ -1,0 +1,13 @@
+fmap = {
+        "pets_allowed": ["dogs", "dog", "cats", "cat"],
+        "no_or_low_fee": ["no fee", "nofee", "no  fee", "nofee", "no_fee", "lowfee", "reduced_fee", "low_fee", "reduced fee", "low fee"],
+        "furnished": ["furnished"],
+        "outdoor_space": ["outdoor space", "garden", "terrace", "balcony", "roof deck"],
+        "prewar": ["prewar", "pre_war", "pre war"],
+        "facilities": ["dishwasher", "fireplace", "laundry", "swimming", "health", "gym", "fitness", "training", "internet", "elevator"],
+        "parking": ["parking", "garage"],
+        "transport": ["train", "subway", "transport"],
+        "utilities": ["utilities", "heat water", "water included"],
+        "new_construction": ["new_construction", "new"],
+        "dining_room": ["dining"]
+    }
